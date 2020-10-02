@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-My Portfolio website.
-
-=======
->>>>>>> c065393f2803db6a41eaaa0676f2f68655c83ddb
-
+My Portfolio website
 Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
-	Design:
-		Massively by HTML5 UP
-h		tml5up.net | @ajlkn
-
-	Design:
-		Massively by HTML5 UP
+	
+	Starting Design:
+		Massively by html 5 up
 		html5up.net | @ajlkn
 
 	Icons:
