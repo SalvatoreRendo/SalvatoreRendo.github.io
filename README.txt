@@ -4,7 +4,8 @@ Credits:
 	Demo Images:
 		Unsplash (unsplash.com)
 	Design:
-		tohtml5up.net | @ajlkn
+		Massively by HTML5 UP
+h		tml5up.net | @ajlkn
 
 	Icons:
 		Font Awesome (fontawesome.io)
